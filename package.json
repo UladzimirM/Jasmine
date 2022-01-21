@@ -17,7 +17,7 @@
     "gulp-cli": "*",
     "gulp-protractor": "*",
     "jasmine-core": "^2.4.1",
-    "log4js": "^2.3.3",
+    "log4js": "^6.4.0",
     "protractor": "^5.4.1",
     "protractor-jasmine2-screenshot-reporter": "^0.3.2"
   }
